@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+
+# Computer vision data
+*.tiff
+*.tif
+
+
+# Model files
+*.ckpt
+*.pth
+*.pt
+*.pb
+*.onnx
+*.weights
+
+# Auto generated files
+.DS_Store
+*.log
+*._
+
+# VS Code settings
+.vscode/

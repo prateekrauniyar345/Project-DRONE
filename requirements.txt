@@ -1,0 +1,17 @@
+opencv-python
+numpy
+matplotlib
+scikit-learn
+scipy
+pillow
+imutils
+torch
+torchvision
+tensorflow
+keras
+h5py
+pandas
+jupyter
+notebook
+tqdm
+ipykernel
